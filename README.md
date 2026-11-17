@@ -1,6 +1,8 @@
 # GTA VI launch-day Twitch viewers — hour by hour
 
 [![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/finn2431/gta6-twitch-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/finn2431/gta6-twitch-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
 
 An entry for the **gta6-twitch-ccu-forecast-01** bounty. Given one case — hour 1's viewers
 in a Twitch category and 42 past launch comparables with their hourly counts — it writes
